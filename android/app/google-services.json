@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977918486336",
+    "project_id": "course-app-tourism",
+    "storage_bucket": "course-app-tourism.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977918486336:android:85af95b94692b93b8f7ca5",
+        "android_client_info": {
+          "package_name": "com.drexapp.app_tourism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977918486336-0vakd5nji1bds95g9nkvm68olh4km9l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS5ms5aaxiTzJxOHtHEDPjZX_rXg1cAs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977918486336-0vakd5nji1bds95g9nkvm68olh4km9l2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
